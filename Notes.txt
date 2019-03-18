@@ -1,10 +1,55 @@
-﻿Main Advantages (Commonly Discussed):
-	Inheritance - one class acquires the properties of another
-	Polymorphism - ability of an object to look like another object, and thus have different operations defined
-	Abstraction - hide complexities from the user
-	Encapsulation - nesting objects, data hiding
+﻿What is a class?
 
+
+
+
+What is an object?
+
+
+
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+Main Advantages (Commonly Discussed):
+	Inheritance 
+
+
+			- one class acquires the properties of another
+
+
+	Polymorphism
+	
+
+
+			- ability of an object to look like another object, and thus have different operations defined
+
+
+	Abstraction
+	
+
+
+			- hide complexities from the user
+
+
+
+	Encapsulation 
+	
+			
+			
+			- nesting objects, data hiding
+
+
+
+
+
+
+
+
+
+
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 Main Advantages (My Version):
+
 	Focus on Architecture
 	Modularity
 	Building code in such a way that it expects change!
@@ -24,4 +69,34 @@ Main Advantages (My Version):
 	... very parful
 	
 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/\/\/\/\/\
+Resources
+
+Clean Code - Uncle Bob Martin
 https://www.slideshare.net/jonkruger/solid-software-design-principles
