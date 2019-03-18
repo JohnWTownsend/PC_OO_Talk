@@ -1,0 +1,11 @@
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\Data\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.json
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.dev.json
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\Data\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\Data\obj\Debug\netcoreapp2.2\Data.dll
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\Data\obj\Debug\netcoreapp2.2\Data.pdb

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace PC_OO_Talk
+namespace Data
 {
     public partial class ProgrammingClubMember
     {

@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace PC_OO_Talk
+namespace Data
 {
     public partial class PC_OOContext : DbContext
     {
