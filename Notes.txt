@@ -7,14 +7,21 @@
 Main Advantages (My Version):
 	Focus on Architecture
 	Modularity
+	Building code in such a way that it expects change!
 
 	Abstraction == Readability
 
 	SRP - Single Responsibility
 	DRY principle - Don't Repeat yourself!
 	KIS principle - Keep it simple
+	
+	Loose coupling - communication with other code through clearly defined interfaces (contracts). 
+	Strong Cohesion - the responsibilities and tasks of a piece of code are related to one another and intended to solve a common problem
 
 	Readability
 	Writability
 	Flexibility
 	... very parful
+	
+	
+https://www.slideshare.net/jonkruger/solid-software-design-principles
