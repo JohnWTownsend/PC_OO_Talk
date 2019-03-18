@@ -1,0 +1,20 @@
+﻿Main Advantages (Commonly Discussed):
+	Inheritance - one class acquires the properties of another
+	Polymorphism - ability of an object to look like another object, and thus have different operations defined
+	Abstraction - hide complexities from the user
+	Encapsulation - nesting objects, data hiding
+
+Main Advantages (My Version):
+	Focus on Architecture
+	Modularity
+
+	Abstraction == Readability
+
+	SRP - Single Responsibility
+	DRY principle - Don't Repeat yourself!
+	KIS principle - Keep it simple
+
+	Readability
+	Writability
+	Flexibility
+	... very parful

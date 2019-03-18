@@ -1,0 +1,11 @@
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\PC_OO_Talk\bin\Debug\netcoreapp2.2\PC_OO_Talk.deps.json
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\PC_OO_Talk\bin\Debug\netcoreapp2.2\PC_OO_Talk.runtimeconfig.json
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\PC_OO_Talk\bin\Debug\netcoreapp2.2\PC_OO_Talk.runtimeconfig.dev.json
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\PC_OO_Talk\bin\Debug\netcoreapp2.2\PC_OO_Talk.dll
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\PC_OO_Talk\obj\Debug\netcoreapp2.2\PC_OO_Talk.csprojAssemblyReference.cache
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\PC_OO_Talk\obj\Debug\netcoreapp2.2\PC_OO_Talk.csproj.CoreCompileInputs.cache
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\PC_OO_Talk\obj\Debug\netcoreapp2.2\PC_OO_Talk.AssemblyInfoInputs.cache
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\PC_OO_Talk\obj\Debug\netcoreapp2.2\PC_OO_Talk.AssemblyInfo.cs
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\PC_OO_Talk\bin\Debug\netcoreapp2.2\PC_OO_Talk.pdb
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\PC_OO_Talk\obj\Debug\netcoreapp2.2\PC_OO_Talk.dll
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\PC_OO_Talk\obj\Debug\netcoreapp2.2\PC_OO_Talk.pdb

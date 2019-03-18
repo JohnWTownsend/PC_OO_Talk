@@ -1,0 +1,10 @@
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\BetterProgram\bin\Debug\netcoreapp2.2\NastyProgram.deps.json
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\BetterProgram\bin\Debug\netcoreapp2.2\NastyProgram.runtimeconfig.json
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\BetterProgram\bin\Debug\netcoreapp2.2\NastyProgram.runtimeconfig.dev.json
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\BetterProgram\bin\Debug\netcoreapp2.2\NastyProgram.dll
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\BetterProgram\bin\Debug\netcoreapp2.2\NastyProgram.pdb
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\BetterProgram\obj\Debug\netcoreapp2.2\NastyProgram.csproj.CoreCompileInputs.cache
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\BetterProgram\obj\Debug\netcoreapp2.2\NastyProgram.AssemblyInfoInputs.cache
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\BetterProgram\obj\Debug\netcoreapp2.2\NastyProgram.AssemblyInfo.cs
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\BetterProgram\obj\Debug\netcoreapp2.2\NastyProgram.dll
+C:\Users\johnj\Documents\COLLEGE\Fall2018\Projects\PC_OO_Talk\BetterProgram\obj\Debug\netcoreapp2.2\NastyProgram.pdb
